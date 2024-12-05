@@ -22,7 +22,7 @@ Vue3 + TS 高仿 ElementPlus 打造自己的组件库
 
 ## 开始使用
 
-- 访问 [Rear-UI (rearwxy.github.io)](https://rearwxy.github.io/rear-ui/#/) 了解更多信息。
+- 访问 [[Rear-UI (rearwxy.github.io)](https://rearwxy.github.io/rear-ui/#/)](https://namedyiran.github.io/rear-ui/) 了解更多信息。
 
 ## 贡献指南
 
